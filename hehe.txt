@@ -1,0 +1,198 @@
+UEBA to technologia, która uwzględnia czynnik ludzki jako istotny dla bezpieczeństwa IT – poprzez monitorowanie
+zachowań użytkowników określa, czym jest standardowa aktywność i jest w stanie wykryć anomalie stanowiące
+zagrożenie dla przedsiębiorstwa. Wdrożenie UEBA umożliwia tworzenie sprecyzowanych powiadomień o zagrożeniu.
+
+Pierwszym etapem działania UEBA jest gromadzenie danych na temat systemu, urządzeń i zachowań użytkowników takich
+jak czas logowania i czas wylogowania z pracy, podłączone urządzenia USB oraz dynamika 
+pisania na klawiaturze – między innymi od tego zależy skuteczność całego przedsięwzięcia.
+Ten etap zdecydowanie usprawnia dedykowany monitoring komputera
+
+---------------------------------------------------------------------------------------------------
+
+SOC
+
+Centrum operacji bezpieczeństwa odpowiada za ochronę organizacji przed cyberzagrożeniami. 
+Analitycy SOC prowadzą całodobowy monitoring sieci organizacji i badają wszelkie potencjalne incydenty
+bezpieczeństwa.
+
+-----------------------------------------------------------------------------------------------------------
+
+SOcaaS
+
+Centrum operacji zabezpieczeń jako usługa (SOCaaS) to oparty na chmurze model subskrypcji 
+umożliwiający zarządzane wykrywanie zagrożeń i reagowanie na nie, obejmujący najlepsze w swojej 
+klasie rozwiązania i możliwości SOC, które pomagają wypełnić luki w istniejących zespołach ds. bezpieczeństwa.
+
+----------------------------------------------------------------------------------------------
+
+SIEM
+
+Informacje dotyczące bezpieczeństwa i zarządzanie zdarzeniami to dziedzina w dziedzinie 
+bezpieczeństwa komputerowego, w której produkty i usługi oprogramowania łączą zarządzanie informacjami 
+dotyczącymi bezpieczeństwa i zarządzanie zdarzeniami związanymi z bezpieczeństwem.
+
+------------------------------------------------------------------------------------------
+
+soar
+
+jest stosunkowo nową platformą bezpieczeństwa, która wykorzystując scentralizowane zarządzanie
+różnymi narzędziami z dziedziny cyberbezpieczeństwa, pozwala na automatyzację pewnych działań,
+w celu analizy i eliminacji zagrożeń.
+
+-----------------------------------------------------------------------------------------------------------
+
+PAM
+
+PAM dosłownie Dołączalne Moduły Uwierzytelniania to modułowy mechanizm uwierzytelniania.
+Jest wykorzystywany przez aplikacje, usługi sieciowe i użytkowników. 
+PAM pozwala na integrację wielu niskopoziomowych technik kryptograficznych w jednym API wysokiego poziomu
+
+-------------------------------------------------------------------------------------------------------------
+
+NAC
+
+Network Access Control to system pozwalający kontrolować dostęp do sieci oraz monitorować próby
+logowania do niej. Rozwiązanie umożliwia również zebranie informacji dotyczących korzystania z zasobów
+oraz priorytetów sesji.
+
+-------------------------------------------------------------------------------
+
+MDR
+
+czyli managed, detection and response, to outsourcingowa usługa cyberbezpieczeństwa. 
+Usługa MDR jest głębokim rozwinięciem usługi SOC i jest pozbawiona jej wad. 
+Kluczowym elementem usługi MDR jest element reakcji na incydent
+
+---------------------------------------------------------------------------------==--------------------------
+
+MFA
+
+używanie dodatkowych składników w procesie uwierzytelniania.
+W szczególności uwierzytelnianie dwuskładnikowe może polegać na podaniu hasła jednorazowego przy logowaniu
+się do poczty elektronicznej
+
+---------------------------------------------------------------------------------------------------------------
+
+
+MDM
+
+
+to oprogramowanie, które umożliwia administratorom IT monitorowanie, zarządzanie i zabezpieczanie firmowych
+lub osobistych urządzeń przenośnych pracowników. Oprogramowanie może kontrolować urządzenia
+działające w jednym lub wielu systemach
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+IPS, IDS
+
+IDS, IPS (ang. Intrusion Detection System, Intrusion Prevention System – systemy wykrywania
+i zapobiegania włamaniom) – urządzenia sieciowe zwiększające bezpieczeństwo sieci komputerowych 
+przez wykrywanie (IDS) lub wykrywanie i blokowanie ataków (IPS) w czasie rzeczywistym.
+
+-----------------------------------------------------------------------------------------------------------------
+
+HSM
+
+Sprzętowy moduł bezpieczeństwa jest to urządzenie do przechowywania i zarządzania kluczami bezpieczeństwa
+do krytycznej autoryzacji i przetwarzania kryptograficznego. Taki moduł najczęściej jest dostarczony
+jako zewnętrzne urządzenie lub jest podłączone do płyty głównej. Niekiedy jest to też serwer wpięty do sieci.
+
+------------------------------------------------------------------------------------------------------------
+
+GRC to skrót od angielskich pojęć Governance Risk Compliance, co wolnym tłumaczeniu oznacza:
+ład korporacyjnym ryzyko i zgodność. Innymi słowy, jest pojęciem, 
+które określa podejście do zarządzania ryzykiem i zgodnością w organizacjach.
+GRC pomaga firmom w identyfikacji, zarządzaniu i kontrolowaniu różnych rodzajów ryzyk związanych z działalnością 
+biznesową oraz zapewnia, że organizacja działa zgodnie z wymaganiami regulacyjnymi i etycznymi.
+
+GRC obejmuje cały zakres działań, od identyfikacji ryzyka i zgodności, poprzez ich analizę i monitorowanie,
+aż do raportowania i zarządzania ryzykiem oraz zgodnością.
+
+---------------------------------------------------------------------------------------------------------------
+
+IDM IAM
+
+IdM wiąże się z utrzymywaniem wielu kont użytkowników oraz przechowywaniem informacji na temat tego:
+
+jaką funkcję pełnią
+do jakich systemów dziedzinowych mogą mieć dostęp
+jak szerokie mogą mieć uprawnienia
+jak mogą nimi dysponować
+
+Systemy identity and access management (IAM) łączą w sobie funkcję zarządzania elektroniczną
+tożsamością oraz funkcję kontroli dostępu tych tożsamości do zasobów organizacji.
+
+
+Systemy IAM/IdM oferują skuteczne zarządzanie prawami dostępu do zasobów 
+informacyjnych z wykorzystaniem wniosków dotyczących otwarcia, modyfikacji lub zamknięcia konta.
+Implementacja takiego systemu w organizacji poprawia bezpieczeństwo i ułatwia pracę działów IT.
+
+--------------------------------------------------------------------------------------------------------------
+
+DAM
+
+Są to klasy narzędzi i technologii służące do monitorowania i analizowania aktywności w bazach danych.
+ Zazwyczaj nie polegają na logach natywnych baz, takich jak dzienniki śledzące czy transakcyjne, 
+ale posiadają własny mechanizm audytowania działający w czasie zbliżonym do rzeczywistego.
+
+Rozszerzeniem systemu DAM jest system DAMP (Database Activity Monitoring and Prevention), 
+który jak sama nazwa wskazuje, wykracza poza monitorowania i alarmowanie, i dodaje możliwość blokowania 
+nieautoryzowanych działań.
+
+
+----------------------------------------------------------------------------------------------------------------
+
+CSIRT
+
+to zespół ekspertów, których głównym zadaniem jest skuteczne reagowanie na incydenty z zakresu bezpieczeństwa
+ informatycznego. Świadczy on usługi niezbędne do rozwiązywania tego typu problemów 
+(analiza incydentu, zabezpieczenie danych, izolacja złośliwego oprogramowania) 
+oraz umożliwia użytkownikom wznowienie normalnej działalności po ich usunięciu.
+
+Posiadanie specjalnego zespołu ds. bezpieczeństwa informatycznego ułatwia organizacji minimalizowanie 
+zakresu poważnych incydentów oraz zapobieganie im, a także ochronę cennych aktywów.
+
+-----------------------------------------------------------------------------------------------------------
+
+CTI
+
+Cyberzagrożenia wywiadowcze to wiedza, umiejętności i oparte na doświadczeniu informacje dotyczące
+występowania i oceny zagrożeń zarówno cybernetycznych, jak i fizycznych oraz aktorów zagrożeń, 
+które mają pomóc w ograniczeniu potencjalnych ataków i szkodliwych zdarzeń zachodzących w cyberprzestrzeni.
+
+----------------------------------------------------------------------------------------------------------------
+
+CMDB
+
+to baza danych zarządzania konfiguracją, która często określana jest jako centrum każdego systemu ITSM.
+CMDB stanowi źródło danych wejściowych dla większości procesów ITIL w całym cyklu życia usługi. 
+Baza danych jest wykorzystywana przez organizacje w celu gromadzenia informacji o zasobach 
+sprzętowych i programowych, które określane są jako CI (elementy konfiguracji). CMBD wykorzystywane jest również
+przez procesy takie, jak zarządzanie incydentami, zarządzanie problemami oraz zarządzanie zmianami.
+
+---------------------------------------------------------------------------------------------------------------
+
+BYOD
+
+zwane także przynieś własną technologię, przynieś własny telefon i przynieś własny komputer osobisty 
+— odnosi się do pozwolenia na korzystanie z własnego urządzenia, a nie wymogu korzystania z oficjalnego urządzenia.
+
+--------------------------------------------------------------------------------------------------------------
+
+BDR
+
+Tworzenie kopii zapasowych i odzyskiwanie po awarii (BDR) to proces kopiowania i przechowywania plików
+w określonej lokalizacji, a następnie odzyskiwania lub przywracania tych plików w przypadku wystąpienia
+sytuacji awaryjnej, takiej jak utrata lub uszkodzenie danych. Tworzenie kopii zapasowych i odzyskiwanie
+po awarii to dwie odrębne, ale powiązane koncepcje, które organizacje powinny zawsze rozważać łącznie
+
+-------------------------------------------------------------------------------------------------------------------
+
+WAF
+
+Zapora aplikacji sieci Web to specyficzna forma zapory aplikacji, która filtruje, monitoruje i blokuje
+ruch HTTP do i z usługi internetowej.
+
+-------------------------------------------------------------------------------------------------------------------
+
